@@ -2,8 +2,18 @@
 SQL-based business analysis project solving 10 real-world ad-hoc requests for AtliQ Hardware using structured data insights and executive-level reporting.
 # 📊 AtliQ Hardware SQL Business Analysis Project
 
-## 🧠 Problem Statement
-AtliQ Hardwares is a leading computer hardware company facing challenges in making quick data-driven decisions. This project focuses on solving 10 business ad-hoc requests using SQL and presenting insights to top-level management.
+## 📌 Project Overview
+
+This project analyzes business data for **Atliq Hardwares** (a fictional
+computer hardware company) to generate actionable insights for
+management decision-making.
+
+The objective was to solve **10 real-world ad-hoc business requests**
+using SQL and transform raw transactional data into meaningful business
+insights supported by visualizations.
+
+This project simulates a real-world scenario where leadership requires
+quick and structured insights to support strategic decisions.
 
 ---
 
@@ -25,11 +35,13 @@ The project uses the following tables:
 
 ---
 
-## 🛠️ Tools Used
-- SQL 
-- PowerPoint (for presentation)
-- Excel (optional)
+## 🛠 Tools & Technologies Used
 
+-   **MySQL** -- Data extraction & querying\
+-   **Power BI** -- Data visualization\
+-   **Data Modeling** -- Relational schema understanding\
+-   **Business Analysis** -- Insight generation & storytelling
+-   **PowerPoint** -- For Presentation
 ---
 
 ## 📌 Key Insights
@@ -40,6 +52,17 @@ The project uses the following tables:
 - 🏆 Top customers contribute major revenue share
 - 📉 Seasonal sales trends observed
 
+---
+
+## 🧠 Skills Demonstrated
+
+-   Writing optimized SQL queries (Joins, Aggregations, Group By,
+    Subqueries)\
+-   Year-over-Year growth analysis\
+-   KPI development\
+-   Trend and seasonality analysis\
+-   Business interpretation of structured data\
+-   Data storytelling through visualization
 
 ---
 
@@ -51,4 +74,6 @@ The project uses the following tables:
 ---
 
 ## 👤 Author
-Aryan Pattnaik
+Aryan Pattnaik\
+📧 Email: aryanpattnaik01@gmail.com\
+🔗 LinkedIn: https://www.linkedin.com/in/aryanpattnaik
