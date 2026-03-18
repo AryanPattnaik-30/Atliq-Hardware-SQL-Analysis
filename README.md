@@ -76,4 +76,5 @@ The project uses the following tables:
 ## 👤 Author
 Aryan Pattnaik\
 📧 Email: aryanpattnaik01@gmail.com\
-🔗 LinkedIn: https://www.linkedin.com/in/aryanpattnaik
+🔗 LinkedIn: https://www.linkedin.com/in/aryanpattnaik \
+🎥 Full video walkthrough: [https://youtu.be/z0W8gGxWxkM]
